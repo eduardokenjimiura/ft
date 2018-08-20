@@ -1,0 +1,26 @@
+{
+  "name": "create-react-redux-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@cathodevel/quantum": "^0.12.1",
+    "react": "^16.4.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.2",
+    "react-dropdown": "^1.6.1",
+    "react-scripts": "1.1.4",
+    "react-widgets": "^4.4.4",
+    "redux-form": "^7.4.2",
+    "redux-form-website-template": "0.0.41"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  }
+}
